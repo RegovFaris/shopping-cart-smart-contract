@@ -27,6 +27,10 @@ The two file can be found on this directory:
 - `target/idl/shop_cart.json`
 - `target/types/shop_cart.ts`
 
+## Update on progress
+- working on the smart contract for the nft.
+- when done will working towards the auditor smart contract
+
 ## Getting Started
 
 ### Prerequisites
